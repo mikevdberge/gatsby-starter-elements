@@ -1,4 +1,4 @@
-# Elements Gatsby Starter
+# Safelinks API docs
 
 This is a Gatsby project for the Safelinks API documentation.
 
