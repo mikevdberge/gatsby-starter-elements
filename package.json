@@ -16,12 +16,15 @@
   "dependencies": {
     "@stoplight/elements": "^7.0.0",
     "canvas": "^2.8.0",
-    "gatsby": "^3.8.1",
+    "gatsby": "^4.0.0",
+    "jaeger-client": "^3.18.1",
     "jsdom": "^16.6.0",
+    "polyfill": "^0.1.0",
     "postcss": "^8.3.5",
     "process": "^0.11.10",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "url": "^0.11.0",
     "util": "^0.12.4"
   },
   "devDependencies": {
